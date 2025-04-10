@@ -23,5 +23,3 @@ Original FEAST should be available on QIIME 2 at some time.... but currently 202
 My updated usage instructions will follow soon.  
 
 
-
-Alex 20240612
