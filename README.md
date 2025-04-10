@@ -1,7 +1,7 @@
 # FEAST2
 Optimized FEAST microbiome source tracking [work in progress]
 
-This package extends and contains slightly tweaked/debugged versions of scripts of the FEAST package from [cozygene github](https://github.com/cozygene/FEAST) (not updated last 5 years).
+This package extends and contains slightly tweaked/debugged versions of scripts of the FEAST package from [cozygene github](https://github.com/cozygene/FEAST) (not updated in the last 5 years. The version promised for QIIME2 also doesn't seem to be available (afaik)).
 
 Thus far there are no REAL algorithm tweaks, just better handling of folders and files avoiding setwd() stuff complicating and failing iterations if we want to.  
 
