@@ -1,5 +1,5 @@
 # FEAST2
-Optimized FEAST microbiome source tracking
+Optimized FEAST microbiome source tracking [work in progress]
 
 This package extends and contains slightly tweaked/debugged versions of scripts of the FEAST package from [cozygene github](https://github.com/cozygene/FEAST) (not updated last 5 years).
 
