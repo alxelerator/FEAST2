@@ -1,10 +1,13 @@
 # FEAST2
 Optimized FEAST microbiome source tracking
 
-This package contains slightly tweaked/debugged versions of the FEAST package from [cozygene github](https://github.com/cozygene/FEAST) (not updated last 5 years).
+This package extends and contains slightly tweaked/debugged versions of scripts of the FEAST package from [cozygene github](https://github.com/cozygene/FEAST) (not updated last 5 years).
 
-Thus far there are no REAL algorithm tweaks, just better handling of folders and files avoiding setwd() stuff complicating and failing iterations if we want to.
-Extension is foreseen to include sensitive analysis (after I cleaned up the working scripts).
+Thus far there are no REAL algorithm tweaks, just better handling of folders and files avoiding setwd() stuff complicating and failing iterations if we want to.  
+
+*Note!* The algorithm is fearly sensitive to missing/incomplete data!
+
+Extension is foreseen to include sensitive analysis (after I cleaned up my working scripts doing the job).
 
 
 # FEAST - a scalable algorithm for quantifying the origins of complex microbial communities
